@@ -84,6 +84,7 @@ To deploy this project locally
 
 ## Navigating Through The App
 This is How The First Page Of The Move-Recommendation-System Looks Like.
+![Screenshot (614)](https://user-images.githubusercontent.com/98551275/170884212-84bc0ee0-4bb5-4924-94dc-643191a01e75.png)
 
 Now IF We Want To Search Recommendation For Say Any Movie We First Go On To The Search Engine And Type The Movie We Want Recommendation For.
 ![Screenshot (615)](https://user-images.githubusercontent.com/98551275/170883754-f092d51a-1639-45d7-ab9b-9688709d8bca.png)
@@ -93,3 +94,11 @@ Now For Say We Want To Get Recommendation For  Captain America.....
 
 The Movie-Recommendation-System Will Then Give A The Recommendation For The Same.
 ![Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883802-bd0c8e16-a740-4fde-ae5a-64cc7f26be0f.png)
+
+Now This How My Movie-Recommendation-System-Looks Like if I open It On Mobile Phones!!!![Screenshot_20220529-171346_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884253-06cc0d25-f426-4cbf-b330-872ef548cfec.jpg)
+![Screenshot_20220529-171334_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884256-5b0f0a14-6984-4bc1-a83f-fc0fa6f7b7aa.jpg)
+![Screenshot_20220529-171322_Samsung Internet](https://user-images.githubuser![Screenshot_20220529-171330_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884263-be5766b5-de20-43d0-af6d-a14a09bb4f3a.jpg)
+content.com/98551275/170884258-636285b2-6f9e-40b6-b7bd-81cd9a5d7481.jpg)
+![Screens![Screenshot_20220529-171349_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884272-9e7b1758-9b9c-4d4c-8dc9-c0c53f2a5a51.jpg)
+hot_20220529-171341_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884265-3e792b63-46ca-497d-b85d-4fa607b6bf90.jpg)
+![Screenshot_20220529-171314_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884278-7ca0de19-81e1-4cd4-b17d-2b2bd483b553.jpg)
