@@ -83,8 +83,6 @@ To deploy this project locally
 
 
 ## Navigating Through The App
-
-## Navigating Through The App
 This is How The First Page Of The Move-Recommendation-System Looks Like.
 ![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883328-bd0165de-e337-4cf6-87b4-01dc43a526ce.png)
 
