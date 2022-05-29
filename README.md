@@ -86,8 +86,6 @@ To deploy this project locally
 
 ## Navigating Through The App
 
-[Screenshot (614)](https://user-images.githubusercontent.com/98551275/170883310-3b97e91c-1ecd-4672-856d-153272aa0a72.png)
-
 [Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883330-db0b770b-6c2f-4548-911a-f96d2bcafd46.png)
 
 
