@@ -85,8 +85,14 @@ To deploy this project locally
 ## Navigating Through The App
 
 ## Navigating Through The App
-
-[Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883330-db0b770b-6c2f-4548-911a-f96d2bcafd46.png)
-
-
+This is How The First Page Of The Move-Recommendation-System Looks Like.
 ![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883328-bd0165de-e337-4cf6-87b4-01dc43a526ce.png)
+
+Now IF We Want To Search Recommendation For say Any Movie We First Go On To The Search Engine And Type The Movie We Want Recommendation For.
+![Screenshot (615)](https://user-images.githubusercontent.com/98551275/170883754-f092d51a-1639-45d7-ab9b-9688709d8bca.png)
+
+Now For Say We Want To Get Recommendation For Sya Captain America.....
+![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883798-32ef815b-8b93-4b36-9214-c566f2302e87.png)
+
+The Movie-Recommendation-System Will Then Give A The Recommendation For The Same.
+![Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883802-bd0c8e16-a740-4fde-ae5a-64cc7f26be0f.png)
