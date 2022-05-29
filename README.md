@@ -6,16 +6,15 @@ A brief description of what this project does and who it's for
 
 ## Table of Content
 
-## About the project![Screenshot (614)](https://user-images.githubusercontent.com/98551275/170883310-3b97e91c-1ecd-4672-856d-153272aa0a72.png)
+## About the project!
 
 Movie-Recommendation-System,build![Screenshot (615)](https://user-images.githubusercontent.com/98551275/170883327-933e2bb9-f3ba-4443-8728-83dfd74f3946.png)
  during the mentorship of microsoft engage mentorship 2022.
 
 Its a Recommendation System, just like your web streaming app like netflix,or your audio streaming App like spotify.
 
-Its build on 5000 movie data-sets ,so if a user types a movie in the search engine and click on recommend,the Recommendation system in res![Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883330-db0b770b-6c2f-4548-911a-f96d2bcafd46.png)
+Its build on 5000 movie data-sets ,so if a user types a movie in the search engine and click on recommend,the Recommendation system in res!
 ponse to the movie recommends the user all the related recommendations.
-![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883328-bd0165de-e337-4cf6-87b4-01dc43a526ce.png)
 
 ## Compatible Platforms
 Laptops, Desktops and Tablet PCs
@@ -87,5 +86,9 @@ To deploy this project locally
 
 ## Navigating Through The App
 
-![App Screenshot](https://github.com/vaishali011yadav/Microsoft_engage_project/issues/1)
+[Screenshot (614)](https://user-images.githubusercontent.com/98551275/170883310-3b97e91c-1ecd-4672-856d-153272aa0a72.png)
 
+[Screenshot (617)](https://user-images.githubusercontent.com/98551275/170883330-db0b770b-6c2f-4548-911a-f96d2bcafd46.png)
+
+
+![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883328-bd0165de-e337-4cf6-87b4-01dc43a526ce.png)
