@@ -8,8 +8,8 @@ A brief description of what this project does and who it's for
 
 ## About the project!
 
-Movie-Recommendation-System,build![Screenshot (615)](https://user-images.githubusercontent.com/98551275/170883327-933e2bb9-f3ba-4443-8728-83dfd74f3946.png)
- during the mentorship of microsoft engage mentorship 2022.
+Movie-Recommendation-System,b
+Built during the mentorship of microsoft engage mentorship 2022.
 
 Its a Recommendation System, just like your web streaming app like netflix,or your audio streaming App like spotify.
 
@@ -88,10 +88,10 @@ To deploy this project locally
 This is How The First Page Of The Move-Recommendation-System Looks Like.
 ![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883328-bd0165de-e337-4cf6-87b4-01dc43a526ce.png)
 
-Now IF We Want To Search Recommendation For say Any Movie We First Go On To The Search Engine And Type The Movie We Want Recommendation For.
+Now IF We Want To Search Recommendation For Say Any Movie We First Go On To The Search Engine And Type The Movie We Want Recommendation For.
 ![Screenshot (615)](https://user-images.githubusercontent.com/98551275/170883754-f092d51a-1639-45d7-ab9b-9688709d8bca.png)
 
-Now For Say We Want To Get Recommendation For Sya Captain America.....
+Now For Say We Want To Get Recommendation For  Captain America.....
 ![Screenshot (616)](https://user-images.githubusercontent.com/98551275/170883798-32ef815b-8b93-4b36-9214-c566f2302e87.png)
 
 The Movie-Recommendation-System Will Then Give A The Recommendation For The Same.
