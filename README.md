@@ -99,3 +99,9 @@ Now This How My Movie-Recommendation-System-Looks Like if I open It On Mobile Ph
 ![Screenshot_20220529-171314_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884347-765122e9-4659-4d62-933d-ee00ca1403e5.jpg)
 
 ![Screenshot_20220529-171322_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884355-cc308d79-ff08-4d2e-a242-d67066ab846f.jpg)
+
+![Screenshot_20220529-171330_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884385-63c39a1d-f2d0-44f1-b38d-9be30fd7b6fa.jpg)
+
+![Screenshot_20220529-171334_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884403-daf18dcc-0ad6-42fb-9fea-d8f04119639d.jpg)
+
+![Screenshot_20220529-171349_Samsung Internet](https://user-images.githubusercontent.com/98551275/170884408-d590e2bc-8eab-4c13-9097-755d07a600ba.jpg)
