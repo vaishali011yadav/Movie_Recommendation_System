@@ -83,5 +83,5 @@ To deploy this project locally
 
 ## Navigating Through The App
 
-![App Screenshot](https://drive.google.com/file/d/1xBIC59MmZkWiRwaUtg4TSQzDEhi8OTbL/view?usp=sharing)
+![App Screenshot](https://github.com/vaishali011yadav/Microsoft_engage_project/issues/1)
 
