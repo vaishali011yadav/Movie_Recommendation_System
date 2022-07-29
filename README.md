@@ -11,11 +11,8 @@ A brief description of what this project does and who it's for
 
 ## About the project!
 
-Movie-Recommendation-System,b
-Built during the mentorship of microsoft engage mentorship 2022.
-
+Movie-Recommendation-System,
 Its a Recommendation System, just like your web streaming app like netflix,or your audio streaming App like spotify.
-
 Its build on 5000 movie data-sets ,so if a user types a movie in the search engine and click on recommend,the Recommendation system in res!
 ponse to the movie recommends the user all the related recommendations.
 
